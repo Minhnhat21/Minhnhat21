@@ -43,7 +43,7 @@ body {
     height: 400px;
 }
 .container .image{
-    background-image: url("/images/image-header-desktop.jpg");
+    background-image: url("./images/image-header-desktop.jpg");
     background-repeat: no-repeat;
     border-radius: 0px 8px 8px 0;
     height: 400px;
@@ -101,7 +101,7 @@ body {
         border-top-right-radius: 10px;
     }
     .container .image{
-        background-image: url("/images/image-header-desktop.jpg");
+        background-image: url("./images/image-header-desktop.jpg");
         background-repeat: no-repeat;
         height: 300px;
         width: 375px;
